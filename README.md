@@ -1,2 +1,3 @@
-#U-Share App
-a location based app where users or bussines owners can just snap a pic of an item on sale and every user can see the post in the app like a tiktok feed and know how far that sale item is using geolocation its real time sales alert
+U-Share is a community-driven mobile app designed to return the power of local savings to the people. It serves as a real-time, location-based platform where users or business owners "snap a pic" of sale items to create a live feed similar to TikTok.  
+
+
